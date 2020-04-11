@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lahu",
+    "texture": "fcabd792-6b11-4ede-9192-b14c2eaa20b7",
+    "atlas": "",
+    "rect": [
+      21,
+      16,
+      100,
+      140
+    ],
+    "offset": [
+      0.5,
+      -8
+    ],
+    "originalSize": [
+      141,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

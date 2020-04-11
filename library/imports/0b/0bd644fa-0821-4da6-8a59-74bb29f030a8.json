@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qiuhe",
+    "texture": "b03aaf3a-623e-4efd-a59d-b114d42457ce",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

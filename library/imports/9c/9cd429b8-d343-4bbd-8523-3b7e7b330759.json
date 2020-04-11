@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redLang",
+    "texture": "bcce1de8-9558-48fe-beea-fc2bd8b70c01",
+    "atlas": "",
+    "rect": [
+      21,
+      40,
+      100,
+      116
+    ],
+    "offset": [
+      0.5,
+      -20
+    ],
+    "originalSize": [
+      141,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

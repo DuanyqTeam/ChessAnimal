@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blueHead",
+    "texture": "2633eb45-22ab-47fd-9b70-2af831947958",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

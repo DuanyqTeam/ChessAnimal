@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "man3",
+    "texture": "e1c969c6-026a-4ebf-955d-c406baa5b5e5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      59
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      57,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

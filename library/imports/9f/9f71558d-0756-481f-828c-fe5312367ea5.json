@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "textRival",
+    "texture": "4e0637e2-fdbc-45c6-82f5-02e151265f20",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      330,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

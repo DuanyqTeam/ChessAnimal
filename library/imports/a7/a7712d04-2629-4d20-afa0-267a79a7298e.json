@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lanqi",
+    "texture": "72251b2f-b054-466d-be40-6ade045d1ed5",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      266,
+      103
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      267,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

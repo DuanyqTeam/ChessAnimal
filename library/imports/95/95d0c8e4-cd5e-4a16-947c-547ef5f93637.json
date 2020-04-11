@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hongqi",
+    "texture": "3cfc8a7c-d92d-447c-8743-48b46c1d9402",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      265,
+      103
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      267,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

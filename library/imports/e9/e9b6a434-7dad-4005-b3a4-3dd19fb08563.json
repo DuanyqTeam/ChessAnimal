@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redShizi",
+    "texture": "bc30a886-f17f-4976-9004-3864a6f25edb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      156
+    ],
+    "offset": [
+      -7,
+      0
+    ],
+    "originalSize": [
+      141,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

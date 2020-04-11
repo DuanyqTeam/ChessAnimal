@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redLaohu",
+    "texture": "a4cf5ef2-5f7b-4030-8974-048b526ba057",
+    "atlas": "",
+    "rect": [
+      21,
+      16,
+      100,
+      140
+    ],
+    "offset": [
+      0.5,
+      -8
+    ],
+    "originalSize": [
+      141,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

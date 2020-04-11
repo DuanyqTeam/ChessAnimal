@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redDaxiang",
+    "texture": "5c209daf-7a4d-445e-a990-b97f88f250f6",
+    "atlas": "",
+    "rect": [
+      17,
+      2,
+      124,
+      154
+    ],
+    "offset": [
+      8.5,
+      -1
+    ],
+    "originalSize": [
+      141,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

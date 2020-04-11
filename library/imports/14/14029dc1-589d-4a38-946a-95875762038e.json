@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redgou",
+    "texture": "c4053655-1087-48a4-955f-b71bab47be2e",
+    "atlas": "",
+    "rect": [
+      21,
+      48,
+      100,
+      108
+    ],
+    "offset": [
+      0.5,
+      -24
+    ],
+    "originalSize": [
+      141,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

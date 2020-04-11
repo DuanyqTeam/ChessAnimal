@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "watermark",
+    "texture": "33395de4-309c-45d9-a0cf-0963ea1bbca0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      264,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      264,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redTime",
+    "texture": "475fc0cd-4712-4afe-993f-3f8b130667a1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      205,
+      93
+    ],
+    "offset": [
+      -56.5,
+      0
+    ],
+    "originalSize": [
+      318,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

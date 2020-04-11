@@ -1,0 +1,105 @@
+2020-04-10T18:32:36.041Z - normal: Load ~/.CocosCreator/settings.json
+2020-04-10T18:32:36.087Z - normal: Initializing Asset Database
+2020-04-10T18:32:36.091Z - normal: checking language setting...
+2020-04-10T18:32:36.091Z - normal: Language: zh
+2020-04-10T18:32:37.025Z - success: preview server running at http://localhost:7456
+2020-04-10T18:32:37.038Z - success: protocol editor-framework registered
+2020-04-10T18:32:37.038Z - success: protocol app registered
+2020-04-10T18:32:37.038Z - success: protocol theme registered
+2020-04-10T18:32:37.038Z - success: protocol packages registered
+2020-04-10T18:32:37.038Z - success: protocol uuid registerred
+2020-04-10T18:32:37.038Z - success: protocol db registerred
+2020-04-10T18:32:37.038Z - success: protocol thumbnail registerred
+2020-04-10T18:32:37.038Z - success: protocol unpack registerred
+2020-04-10T18:32:37.038Z - success: protocol disable-commonjs registerred
+2020-04-10T18:32:37.142Z - normal: connected!
+2020-04-10T18:32:37.144Z - normal: Check project /Users/duanyongqiang/Documents/github/AnimalChecker
+2020-04-10T18:32:37.146Z - normal: Initializing project /Users/duanyongqiang/Documents/github/AnimalChecker
+2020-04-10T18:32:37.187Z - success: adapters loaded
+2020-04-10T18:32:37.192Z - success: asset-db-debugger loaded
+2020-04-10T18:32:37.273Z - success: fb-audience-network loaded
+2020-04-10T18:32:37.305Z - success: fb-live-stream loaded
+2020-04-10T18:32:37.307Z - success: google-play-instant loaded
+2020-04-10T18:32:37.308Z - success: huawei-adapter loaded
+2020-04-10T18:32:37.308Z - success: jkw-adapter loaded
+2020-04-10T18:32:37.309Z - success: jsb-adapter loaded
+2020-04-10T18:32:37.310Z - success: oppo-adapter loaded
+2020-04-10T18:32:37.314Z - success: package-manager loaded
+2020-04-10T18:32:37.315Z - success: qtt-adapter loaded
+2020-04-10T18:32:37.317Z - success: runtime-dev-tools loaded
+2020-04-10T18:32:37.322Z - success: sdkbox loaded
+2020-04-10T18:32:37.325Z - success: ui-kit-preview-extra loaded
+2020-04-10T18:32:37.327Z - success: ui-kit-preview loaded
+2020-04-10T18:32:37.328Z - success: vivo-adapter loaded
+2020-04-10T18:32:37.382Z - success: alipay-minigame loaded
+2020-04-10T18:32:37.437Z - success: assets loaded
+2020-04-10T18:32:37.439Z - success: baidugame-opendata loaded
+2020-04-10T18:32:37.440Z - success: baidugame loaded
+2020-04-10T18:32:37.447Z - success: builder loaded
+2020-04-10T18:32:37.618Z - success: cocos-services loaded
+2020-04-10T18:32:37.622Z - success: console loaded
+2020-04-10T18:32:37.624Z - success: curve-editor loaded
+2020-04-10T18:32:37.633Z - success: fb-instant-games loaded
+2020-04-10T18:32:37.637Z - success: game-window loaded
+2020-04-10T18:32:37.637Z - success: google-instant-games loaded
+2020-04-10T18:32:37.641Z - success: hierarchy loaded
+2020-04-10T18:32:37.645Z - success: huawei-runtime loaded
+2020-04-10T18:32:37.648Z - success: inspector loaded
+2020-04-10T18:32:37.721Z - success: cpk-publish loaded
+2020-04-10T18:32:37.721Z - success: keystore loaded
+2020-04-10T18:32:37.727Z - success: node-library loaded
+2020-04-10T18:32:37.728Z - success: open-recent-items loaded
+2020-04-10T18:32:37.731Z - success: oppo-runtime loaded
+2020-04-10T18:32:37.732Z - success: package-asset loaded
+2020-04-10T18:32:37.733Z - success: preferences loaded
+2020-04-10T18:32:37.737Z - success: project-importer loaded
+2020-04-10T18:32:37.739Z - success: project-settings loaded
+2020-04-10T18:32:37.752Z - success: qtt-runtime loaded
+2020-04-10T18:32:37.756Z - success: scene loaded
+2020-04-10T18:32:37.757Z - success: simulator-debugger loaded
+2020-04-10T18:32:37.757Z - success: sprite-editor loaded
+2020-04-10T18:32:37.761Z - success: store loaded
+2020-04-10T18:32:37.766Z - success: timeline loaded
+2020-04-10T18:32:37.770Z - success: vivo-runtime loaded
+2020-04-10T18:32:37.773Z - success: wechatgame-opendata loaded
+2020-04-10T18:32:37.778Z - success: wechatgame loaded
+2020-04-10T18:32:37.781Z - success: xiaomi-runtime loaded
+2020-04-10T18:32:37.798Z - success: plugin-matchvs loaded
+2020-04-10T18:32:38.767Z - info: Cocos Service load base data!
+2020-04-10T18:32:38.912Z - normal: Initializing Cocos2d
+2020-04-10T18:32:39.208Z - normal: Initializing engine extends
+2020-04-10T18:32:42.680Z - normal: Loading packages
+2020-04-10T18:32:42.686Z - normal: Watching packages
+2020-04-10T18:32:42.757Z - normal: Run Application
+2020-04-10T18:32:46.407Z - warn: Please change the definition of property 'loseClip' in class 'uiVsResult'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    loseClip: cc.Texture2D,
+    // or:
+    loseClip: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    loseClip: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-04-10T18:32:46.407Z - warn: Please change the definition of property 'victoryClip' in class 'uiVsResult'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    victoryClip: cc.Texture2D,
+    // or:
+    victoryClip: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    victoryClip: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-04-10T18:32:46.408Z - warn: Can not indicate the 'cc.String' attribute for "uiVsResult.loseClip", which its default value is type of object.
+2020-04-10T18:32:46.408Z - warn: Can not indicate the 'cc.String' attribute for "uiVsResult.victoryClip", which its default value is type of object.

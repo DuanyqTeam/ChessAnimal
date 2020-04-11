@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redbaozi",
+    "texture": "ce28e353-18cd-4c34-aef7-e595e04d4303",
+    "atlas": "",
+    "rect": [
+      6,
+      25,
+      115,
+      131
+    ],
+    "offset": [
+      -7,
+      -12.5
+    ],
+    "originalSize": [
+      141,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

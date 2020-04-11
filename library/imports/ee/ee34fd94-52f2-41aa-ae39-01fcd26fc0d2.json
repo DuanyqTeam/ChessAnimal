@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redMao",
+    "texture": "acc48247-9443-4d06-99e6-6de217d36b2b",
+    "atlas": "",
+    "rect": [
+      21,
+      36,
+      100,
+      120
+    ],
+    "offset": [
+      0.5,
+      -18
+    ],
+    "originalSize": [
+      141,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

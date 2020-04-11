@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mao",
+    "texture": "0d3a676e-9dd2-4b9c-9d77-a01ef8d508ed",
+    "atlas": "",
+    "rect": [
+      21,
+      39,
+      100,
+      117
+    ],
+    "offset": [
+      0.5,
+      -19.5
+    ],
+    "originalSize": [
+      141,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

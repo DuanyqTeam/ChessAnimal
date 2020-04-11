@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laoshu",
+    "texture": "c39a545a-58ab-4739-9578-42f7fb175563",
+    "atlas": "",
+    "rect": [
+      21,
+      40,
+      100,
+      116
+    ],
+    "offset": [
+      0.5,
+      -20
+    ],
+    "originalSize": [
+      141,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

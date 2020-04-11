@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lanse",
+    "texture": "b7d6402c-840c-4271-ac6f-d772ef21fbb1",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      134,
+      134
+    ],
+    "offset": [
+      -1.5,
+      -0.5
+    ],
+    "originalSize": [
+      137,
+      141
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
